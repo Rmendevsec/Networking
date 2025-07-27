@@ -320,3 +320,33 @@ Example:
 
 **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcq27xY9vPhc7vRNtklsGoEfoehNvfK3oyFNrCjHWHEQpK4wlyvWWCRcMTz-MJdpnYhlfa06aJCEXLk_i9WqpS1c9oFNtHwsQ6TEgngAw_fa7nthmdfTtvNKEqObPuoFcnpTTIEl5mwbKwgqWvZUpCrVt_cm581=s2048?key=3mKeAVmgaSEe6t6etgR_Eg)**
 
+- In the **TCP/IP** model, some OSI models are **combined**.
+	- **Application Layer** = OSI's **Application + Presentation**
+	- **Network Access Layer** = OSI's **Data Link + Physical**
+
+## Firewall
+
+- It is a security tool that **controls network traffic**
+	- It **allows or blocks** data based on **rules**
+	- Protects our system for **unauthorized access**
+	- Works like a **gatekeeper** for our network
+- Example: Blocks access to certain hosts from outside network
+
+
+**![What is Firewall? - An Introduction Guide](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcoO9I2650KbAQ3qxuBg7dLiXJmx4nOFLvUaQ1DzQHmexbdjOffHMe3kSPi2sl_0tkYB-sasFxnQeyEfUirNfS28alsmKu-9pgMnsUGdRz6d9VHXfBFVFiyLpeM5Et8B2a8IXFHzX0PtgMkaH3gPAwoOI_I0r1t=s2048?key=3mKeAVmgaSEe6t6etgR_Eg)**
+
+## Firewall hardware
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUe9tDLi0yYGhoVbTZgYT2NI1TUU6VrDb7D7Cjia6OxL3eTI3aYAne5MX50t7tW_4-o-CVgSfy8SvwLnFwbBGNFXKqfZ01HUUSRYCKKcV_uWdzSon98yhTW_L0_BR7gt8QJ6Nk1If4hQssGxTdolCwp8lJKq3qnI=s2048?key=3mKeAVmgaSEe6t6etgR_Eg)**
+
+==But every OS have firewall Built-in==
+
+## Networking tools
+
+## 1. The Switches
+
+- It **connects multiple devices in a Local Area Network(LAN)**
+- It **forwards data** only in the device it's meant for (unlike hubs)
+- Works at **OSI Layer 2 (Data Link Layer)**
+- Improves **speed, efficiency, and security** in a network
+
+## 2. 
