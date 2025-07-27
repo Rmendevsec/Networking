@@ -282,3 +282,41 @@ Example:
 
 ## TCP and UDP
 
+## ==TCP (Transmission Control Protocol )==
+
+- **Reliable and Connection-Oriented**
+- Creates a connection before sending data (3-way handshake)
+- Makes sure all data arrives **correctly and in order**
+- Used for:
+	- Emails
+	- Chat apps
+	- Online videos
+	- Web browsing
+
+## ==UDP (User Datagram Protocol)==
+
+- **Connectionless** (no handshake)
+- Less **reliable**, but faster
+- Sends data without checking if it arrives
+- Used for:
+	- Online gaming
+	- Live streaming
+	- Voice/Video calls
+
+## TCP/IP Model
+
+- A **reference model** like OSI, but **more practical**
+- It is the **most widely used** model today
+- Has **4 layers** (used to be 5)
+
+### 4 Layers of TCP/IP
+
+1. **Application** - (Apps, HTTP, FTP, DNS)
+2. **Transport** - (TCP, UDP)
+3. **Internet** - (IP, ICMP)
+4. **Network Access** - (MAC, hardware-level communication)
+
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUd1J7_18aKZJAFBrfbv_lMishFx8FJ7bOPFCVoUwXHq0Sm1ypc8VXTxucGEDEytBDQpqBTluB88fgApbaDwg6DTjikqy7ZlwmWNPsMT6gdK8mmL-EbWVSl8yuGKOkYO00j0kwgaY5R8R74rpNoNmqfPVgTsZikd=s2048?key=3mKeAVmgaSEe6t6etgR_Eg)**
+
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcq27xY9vPhc7vRNtklsGoEfoehNvfK3oyFNrCjHWHEQpK4wlyvWWCRcMTz-MJdpnYhlfa06aJCEXLk_i9WqpS1c9oFNtHwsQ6TEgngAw_fa7nthmdfTtvNKEqObPuoFcnpTTIEl5mwbKwgqWvZUpCrVt_cm581=s2048?key=3mKeAVmgaSEe6t6etgR_Eg)**
+
