@@ -349,4 +349,34 @@ Example:
 - Works at **OSI Layer 2 (Data Link Layer)**
 - Improves **speed, efficiency, and security** in a network
 
-## 2. 
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcZziL9w1QfcPyp_i4le5gpmc9w7w6fOmIR9l9TBU_s_K30VGoi-x4nkK7GZgKgaHEhkDnm0NUapa6bP9a8O3vfXBROqL89Mk6MEvpmD4Z-F2jPxdt63K7QmjzMZjebXglbK70wZQNUEjGeA2hWsHHryLuGizk=s2048?key=3mKeAVmgaSEe6t6etgR_Eg)**
+
+## 2. Switches/Hub and Routers
+
+- **Switch:** Connects devices within a LAN, sends data only to the right device
+- **HUB**: Connects devices but sends data to all devices (less efficient)
+- **Router:** Connects different networks (like our home network to the internet) and directs data between them
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcajRXQyKbXiwKqWhGU99vJrWD5akETo61HMhDaZIODPLlQgSA8gBg8njywjorU2W3aTS_BOIztIWQ7AkFcu-ehpHjewzHNDm9rRTY3aC3T_f4GZqufBB-LRswFls1Do0t2dpp8Bxm5ThvwvC8ynponE-n9-lg=s2048?key=3mKeAVmgaSEe6t6etgR_Eg)**
+
+## 3. Modem WIFI Routers
+
+- Combines **router + switch + wireless access point**
+- Provides **WIFI access** and connects wired & wireless devices
+- Often includes **firewall** and other security features
+
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUftkq0OyDdgbnJpWMnVicMF2vNyjPfsC0BAKhhQs8r8dnTq9Y8_bhcObBRDOTcIiFTKxiDL8BXEsNKeiqqDXZITmdvDCaPrXhqA_a9DWtu5jF4Ad7zgEYErLpYRuOKFP7tY9c-qGDzgQ1KISyERb9unzT6GZ8za=s2048?key=3mKeAVmgaSEe6t6etgR_Eg)**
+
+## 4. Repeater 
+
+- Boosts or **amplifies WiFi/internet signals**
+- Extends network range over long distance
+
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUe0WFaCaWh8G0q9csD5zvImUGlqR9N0v-PKy4iKys3DOLzwUcqwdA2TuKj6JGyBuwq6uq7GNPZ_YLePr9jN-ffWx0hbVR3HPVaY_IfFsGfBYOzp2bCEDf00gxd0Wm50rHIgD3LLOmQjLiAh4cxq6r51aEOsPL1u=s2048?key=3mKeAVmgaSEe6t6etgR_Eg)**
+
+## 5. Bridge
+
+- Connects **two or more LANs** together
+- Makes multiple networks act like one
+
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdj1DsdyO2PnsJdlr9wfWjMzPGwjixAHhBY_BvliVYVHutn05tiBrtM2jiAH2yAMjPp2oYEmojLQluxOcfYj0CLJVMKLzn9gCVzG4M88M7SfNT8WY0CCT99nnhhYzoPW-FcDB2d0E1JN-Ic8bwKpPg149O4OGrJ=s2048?key=3mKeAVmgaSEe6t6etgR_Eg)**
+
