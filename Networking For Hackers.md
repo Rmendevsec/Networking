@@ -234,4 +234,51 @@ Example:
 
 ## Layer 4: Transport Layer
 
-- 
+- Manages **data delivery** between devices
+- **Splits** data into packets (sender)
+- **Reassembles** packets (receiver)
+- Handles **errors, resends lost data, and ensure correct order**
+- Our data is called **SEGMENT**
+
+==Protocols==
+
+- **TCP** - Reliable
+- **UDB** - Fast, no guarantee
+
+## Layer 3: Network Layer
+
+- Handles **IP addressing** and **routing**
+- Finds **best path** for data to travel
+- Manages **traffic, congestion, and packet delivery**
+- Translates **logical** <-> **physical addresses**
+- Our data is called **PACKET**
+
+==Protocols==
+
+- **IP, ICMP, ARP, NAT**
+
+## Layer 2: Data Link Layer
+
+- Converts **raw bits** into **frames**(structured data)
+- Ensures **reliable delivery** over the physical link
+- Waits for **acknowledgment, and resends** if needed
+- Works directly with hardware (like switches)
+- Our data is called **FRAMES**
+
+==Protocols==
+
+- **PPP, NDP, CDP**
+
+## Layer 1: Physical Layer
+
+- Sends **raw bit** (0s and 1s) through wires or signals
+- Defines **cables, voltages, connectors, and signals**
+- Controls **how data is physically sent** over the medium
+- Our data is called **BITS**
+
+==Protocols/Devices:==
+
+- **RS-449, cables hubs, NICs, repeaters**
+
+## TCP and UDP
+
